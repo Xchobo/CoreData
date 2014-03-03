@@ -9,6 +9,7 @@
 #import "MainViewController.h"
 #import "AppDelegate.h"
 
+//基本宣告
 static NSString *entityname = @"Orders";
 static NSString *namecol = @"name";
 static NSString *pricecol = @"price";
