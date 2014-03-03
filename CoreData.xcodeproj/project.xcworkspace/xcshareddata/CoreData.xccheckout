@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B0DA53A0-1901-4677-AEB5-CF27B05E3ED7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CoreData</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E4716CBD-9EC5-43F2-AD15-7E1EB81AD958</key>
+		<string>https://github.com/Xchobo/CoreData2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CoreData.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E4716CBD-9EC5-43F2-AD15-7E1EB81AD958</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Xchobo/CoreData2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E4716CBD-9EC5-43F2-AD15-7E1EB81AD958</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E4716CBD-9EC5-43F2-AD15-7E1EB81AD958</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CoreData</string>
+		</dict>
+	</array>
+</dict>
+</plist>
